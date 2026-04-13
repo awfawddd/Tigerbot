@@ -1,0 +1,427 @@
+[12/04/2026 14:15] Tu: cronologia
+[12/04/2026 14:15] Tu: ez
+[12/04/2026 14:15] TigerBot: Non sono sicuro di aver capito.
+[12/04/2026 14:15] Tu: bimbo ciao
+[12/04/2026 14:15] TigerBot: Ciao anche a te!
+[12/04/2026 14:15] Tu: come stai
+[12/04/2026 14:15] TigerBot: Sto bene!
+[12/04/2026 14:16] Tu: no tu
+[12/04/2026 14:16] TigerBot: Io sono solo un bot 😄
+[12/04/2026 14:16] Tu: e io?
+[12/04/2026 14:16] TigerBot: Non lo so 😄 dimmelo tu!
+[12/04/2026 14:16] Tu: haha allora stai zitto perchè sto bene
+[12/04/2026 14:16] TigerBot: Mi fa piacere sentirlo!
+[12/04/2026 14:16] Tu: esci
+[12/04/2026 14:16] TigerBot: Ciao!
+[12/04/2026 14:16] Tu: 
+[12/04/2026 14:16] TigerBot: Ciao!
+[12/04/2026 14:16] Tu: GET OUT
+[12/04/2026 14:16] TigerBot: Ciao!
+[12/04/2026 14:17] Tu: 
+[12/04/2026 14:17] TigerBot: Ciao!
+[12/04/2026 14:18] Tu: ciao
+[12/04/2026 14:18] TigerBot: Ciao!
+[12/04/2026 14:19] Tu: ciao
+[12/04/2026 14:19] TigerBot: Ciao!
+[12/04/2026 14:20] Tu: ciao
+[12/04/2026 14:20] TigerBot: Ciao!
+[12/04/2026 14:20] Tu: esco
+[12/04/2026 14:20] TigerBot: Non sono sicuro di aver capito.
+[12/04/2026 14:20] Tu: esci
+[12/04/2026 14:20] TigerBot: Ciao!
+[12/04/2026 14:20] Tu: ciao
+[12/04/2026 14:20] TigerBot: Ciao! cosa vuoi fare oggi?
+[12/04/2026 14:21] Tu: get out
+[12/04/2026 14:21] TigerBot: Puoi spiegarti meglio?
+[12/04/2026 14:21] Tu: ciao
+[12/04/2026 14:21] TigerBot: Ciao anche a te!
+[12/04/2026 14:21] Tu: esci
+[12/04/2026 14:21] TigerBot: Ciao!
+[12/04/2026 14:21] Tu: ciao
+[12/04/2026 14:21] TigerBot: Ciao anche a te!
+[12/04/2026 14:21] Tu: GET OUT
+[12/04/2026 14:21] TigerBot: Ciao!
+[12/04/2026 14:23] Tu: ciao esci
+[12/04/2026 14:23] TigerBot: Ciao! cosa vuoi fare oggi?
+[12/04/2026 14:23] Tu: c esci
+[12/04/2026 14:23] TigerBot: Prova a scriverlo in un altro modo.
+[12/04/2026 14:47] Tu: mi chiamo Federico
+[12/04/2026 14:47] TigerBot: ('Piacere federico!', 'federico')
+[12/04/2026 14:47] Tu: come mi chiamo
+[12/04/2026 14:47] TigerBot: ("Non me l'hai ancora detto.", '')
+[12/04/2026 14:49] Tu: come mi chiamo
+[12/04/2026 14:49] TigerBot: ("Non me l'hai ancora detto.", '')
+[12/04/2026 14:49] Tu: come mi chiamo?
+[12/04/2026 14:49] TigerBot: ("Non me l'hai ancora detto.", '')
+[12/04/2026 14:49] Tu: mi chiamo Federico
+[12/04/2026 14:49] TigerBot: ('Piacere federico!', 'federico')
+[12/04/2026 14:51] Tu: ciao
+[12/04/2026 14:51] TigerBot: Ciao! cosa vuoi fare oggi?
+[12/04/2026 14:51] Tu: mi chiamo Federico
+[12/04/2026 14:51] TigerBot: Piacere Federico!
+[12/04/2026 14:51] Tu: come mi chiamo?
+[12/04/2026 14:51] TigerBot: Ti chiami Federico!
+[12/04/2026 14:51] Tu: come mi chiamo
+[12/04/2026 14:51] TigerBot: Non me l'hai ancora detto.
+[12/04/2026 14:53] Tu: ciao
+[12/04/2026 14:53] TigerBot: Ciao! cosa vuoi fare oggi?
+[12/04/2026 14:53] Tu: mi chiamo Federico
+[12/04/2026 14:53] TigerBot: Piacere Federico!
+[12/04/2026 14:53] Tu: mi chiamo Luca
+[12/04/2026 14:53] TigerBot: Piacere Luca!
+[12/04/2026 14:54] Tu: come mi chiamo
+[12/04/2026 14:54] TigerBot: Non me l'hai ancora detto.
+[12/04/2026 14:54] Tu: mi chiamo luca
+[12/04/2026 14:55] Tu: mi chiamo Federico
+[12/04/2026 14:55] TigerBot: Piacere Federico!
+[12/04/2026 14:56] Tu: mi chiamo Federico
+[12/04/2026 14:57] Tu: mi chiamo Federico
+[12/04/2026 14:57] TigerBot: Piacere Federico!
+[12/04/2026 14:58] Tu: mi chiamo Luca
+[12/04/2026 14:58] TigerBot: Piacere Luca!
+[12/04/2026 14:58] Tu: come mi chiamo
+[12/04/2026 14:58] TigerBot: Ti chiami Luca!
+[12/04/2026 14:58] Tu: come mi chiamo
+[12/04/2026 14:58] TigerBot: Ti chiami Luca!
+[12/04/2026 14:58] Tu: come mi chiamo
+[12/04/2026 14:58] TigerBot: Ti chiami Luca!
+[12/04/2026 15:00] Tu: come mi chiamo
+[12/04/2026 15:00] TigerBot: Ti chiami Luca!
+[12/04/2026 15:00] Tu: dimentica il mio nome
+[12/04/2026 15:00] TigerBot: Va bene, l'ho dimenticato.
+[12/04/2026 15:00] Tu: come mi chiamo
+[12/04/2026 15:00] TigerBot: Non me l'hai ancora detto.
+[12/04/2026 15:08] Tu: ho 10 anni
+[12/04/2026 15:08] TigerBot: Puoi spiegarti meglio?
+[12/04/2026 15:08] Tu: ho 10 anni
+[12/04/2026 15:09] Tu: ho 10 anni
+[12/04/2026 15:10] Tu: ho 10 anni
+[12/04/2026 15:10] TigerBot: Prova a scriverlo in un altro modo.
+[12/04/2026 15:16] Tu: ho 10 anni
+[12/04/2026 15:16] TigerBot: Prova a scriverlo in un altro modo.
+[12/04/2026 15:16] Tu: ho 10 anni
+[12/04/2026 15:16] TigerBot: 10, bene!
+[12/04/2026 15:16] Tu: ho qualcosa di anni
+[12/04/2026 15:16] TigerBot: qualcosa di, bene!
+[12/04/2026 15:17] Tu: ho treeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee anni
+[12/04/2026 15:17] TigerBot: treeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee, bene!
+[12/04/2026 15:17] Tu: ho 16 anni
+[12/04/2026 15:17] TigerBot: 16, bene!
+[12/04/2026 15:21] Tu: dimentica la mia eta
+[12/04/2026 15:21] TigerBot: Non sono sicuro di aver capito.
+[12/04/2026 15:22] Tu: dimentica la mia eta
+[12/04/2026 15:22] TigerBot: Prova a scriverlo in un altro modo.
+[12/04/2026 15:22] Tu: dimentica la mia eta
+[12/04/2026 15:22] TigerBot: Non ho capito.
+[12/04/2026 15:22] Tu: ho 16 anni
+[12/04/2026 15:22] TigerBot: 16, bene!
+[12/04/2026 15:22] Tu: dimentica la mia eta
+[12/04/2026 15:22] TigerBot: Prova a scriverlo in un altro modo.
+[12/04/2026 15:23] Tu: dimentica la mia eta
+[12/04/2026 15:23] TigerBot: Va bene, ho dimenticato la tua età.
+[12/04/2026 15:27] Tu: seleziona utente Luca
+[12/04/2026 15:27] TigerBot: Va bene, ho dimenticato la tua età.
+[12/04/2026 15:38] Tu: ciao
+[12/04/2026 15:38] TigerBot: Ciao! cosa vuoi fare oggi?
+[12/04/2026 15:38] Tu: seleziona utente
+[12/04/2026 15:38] TigerBot: Prova a scriverlo in un altro modo.
+[12/04/2026 15:38] Tu: gestione utenti
+[12/04/2026 15:38] TigerBot: Non sono sicuro di aver capito.
+[12/04/2026 15:39] Tu: seleziona utente Luca
+[12/04/2026 15:39] TigerBot: Utente selezionato: Luca
+[12/04/2026 15:39] Tu: seleziona utente Marco
+[12/04/2026 15:39] TigerBot: Utente selezionato: Marco
+[12/04/2026 15:39] Tu: ciao
+[12/04/2026 15:39] TigerBot: Ciao! cosa vuoi fare oggi?
+[12/04/2026 15:39] Tu: cronologia
+[12/04/2026 15:39] TigerBot: Ecco la cronologia.
+[12/04/2026 15:39] Tu: mostra utente
+[12/04/2026 15:39] TigerBot: Ecco i dati di Marco.
+[12/04/2026 15:39] Tu: imposta eta 12
+[12/04/2026 15:39] TigerBot: Età impostata a 12 per Marco
+[12/04/2026 15:39] Tu: imposta eta 1776
+[12/04/2026 15:39] TigerBot: Età impostata a 1776 per Marco
+[12/04/2026 15:39] Tu: seleziona utente Federico
+[12/04/2026 15:39] TigerBot: Utente selezionato: Federico
+[12/04/2026 15:39] Tu: imposta eta 13
+[12/04/2026 15:39] TigerBot: Età impostata a 13 per Federico
+[12/04/2026 15:39] Tu: seleziona utente Luca
+[12/04/2026 15:39] TigerBot: Utente selezionato: Luca
+[12/04/2026 15:39] Tu: imposta eta 13
+[12/04/2026 15:39] TigerBot: Età impostata a 13 per Luca
+[12/04/2026 15:40] Tu: ho 17 anni
+[12/04/2026 15:40] TigerBot: Ok, hai 17 anni!
+[12/04/2026 15:40] Tu: non è vero
+[12/04/2026 15:40] TigerBot: Non sono sicuro di aver capito.
+[12/04/2026 15:40] Tu: ho 1 anno
+[12/04/2026 15:40] TigerBot: Prova a scriverlo in un altro modo.
+[12/04/2026 15:41] Tu: ho 1 anno
+[12/04/2026 15:41] TigerBot: Ok, hai 1 anni!
+[12/04/2026 15:42] Tu: ho 1 anno
+[12/04/2026 15:42] TigerBot: Ok, hai 1 anno!
+[12/04/2026 15:42] Tu: ho 2 anni
+[12/04/2026 15:42] TigerBot: Ok, hai 2 anni!
+[12/04/2026 15:44] Tu: ciao anno
+[12/04/2026 15:44] TigerBot: Ok, hai o anno!
+[12/04/2026 15:45] Tu: i anno
+[12/04/2026 15:45] TigerBot: Ok, hai  anno!
+[12/04/2026 15:46] Tu:  ciao anno
+[12/04/2026 15:46] TigerBot: Ciao! cosa vuoi fare oggi?
+[12/04/2026 15:46] Tu: i anno
+[12/04/2026 15:46] TigerBot: Puoi spiegarti meglio?
+[12/04/2026 15:46] Tu: ho 10210015251329629864328967234968736987326098 anni
+[12/04/2026 15:46] TigerBot: Ok, hai 10210015251329629864328967234968736987326098 anni!
+[12/04/2026 15:46] Tu: ho 2 anno
+[12/04/2026 15:46] TigerBot: Ok, hai 2 anno!
+[12/04/2026 15:53] Tu: cosa piace a luca
+[12/04/2026 15:53] TigerBot: Non ho capito.
+[12/04/2026 15:53] Tu: cosa piace a Luca
+[12/04/2026 15:53] TigerBot: Non ho capito.
+[12/04/2026 15:54] Tu: cosa piace a Luca
+[12/04/2026 15:54] Tu: cosa piace a Luca
+[12/04/2026 15:54] Tu: cosa piace a Luca
+[12/04/2026 15:54] TigerBot: Non ho capito.
+[12/04/2026 15:55] Tu: cosa piace a Luca
+[12/04/2026 15:55] TigerBot: Prova a scriverlo in un altro modo.
+[12/04/2026 15:55] Tu: cosa piace a Luca
+[12/04/2026 15:55] TigerBot: Prova a scriverlo in un altro modo.
+[12/04/2026 15:56] Tu: cosa piace a Luca
+[12/04/2026 15:56] Tu: cosa piace a Luca
+[12/04/2026 15:56] Tu: cosa piace a Luca
+[12/04/2026 15:56] Tu: cosa piace a Luca
+[12/04/2026 15:58] Tu: cosa piace a Luca
+[12/04/2026 15:59] Tu: cosa piace a Luca
+[12/04/2026 15:59] Tu: cosa piace a Luca
+[12/04/2026 16:01] Tu: cosa piace a Luca
+[12/04/2026 16:01] Tu: cosa piace a Luca
+[12/04/2026 16:02] Tu: cosa piace a Luca
+[12/04/2026 16:03] Tu: cosa piace a Luca
+[12/04/2026 16:03] Tu: cosa piace a Luca
+[12/04/2026 16:03] Tu: cosa piace a Luca
+[12/04/2026 16:03] Tu: cosa piace a Luca
+[12/04/2026 16:03] Tu: cosa piace a Luca
+[12/04/2026 16:04] Tu: cosa piace a Luca
+[12/04/2026 16:04] Tu: cosa piace a Luca
+[12/04/2026 16:04] Tu: cosa piace a Luca
+[12/04/2026 16:05] Tu: cosa piace a Luca
+[12/04/2026 16:05] Tu: cosa piace a Luca
+[12/04/2026 16:06] Tu: cosa piace a Luca
+[12/04/2026 16:07] Tu: cosa piace a Luca
+[12/04/2026 16:07] Tu: cosa piace a Luca
+[12/04/2026 16:08] Tu: cosa piace a Luca
+[12/04/2026 16:09] Tu: cosa piace a Luca
+[12/04/2026 16:10] Tu: cosa piace a Luca
+[12/04/2026 16:11] Tu: cosa piace a Luca
+[12/04/2026 16:14] Tu: cosa piace a Luca
+[12/04/2026 16:16] Tu: cosa piace a Luca
+[12/04/2026 16:16] TigerBot: None
+[12/04/2026 16:16] Tu: cosa piace a Luca
+[12/04/2026 16:16] TigerBot: None
+[12/04/2026 16:17] Tu: cosa piace a luca
+[12/04/2026 16:17] TigerBot: ('a luca ', ['piacciono Campane', 'piacciono pianeti'])
+[12/04/2026 16:17] Tu: cosa piace a luca
+[12/04/2026 16:17] TigerBot: ('a luca ', ['piacciono Campane', 'piacciono pianeti'])
+[12/04/2026 16:17] Tu: cosa piace a luca
+[12/04/2026 16:17] TigerBot: ('a luca ', ['piacciono Campane', 'piacciono pianeti'])
+[12/04/2026 16:17] Tu: cosa piace a luca
+[12/04/2026 16:17] TigerBot: ('a luca ', ['piacciono Campane', 'piacciono pianeti'])
+[12/04/2026 16:18] Tu: cosa piace a luca
+[12/04/2026 16:18] TigerBot: ('a luca ', ['piacciono Campane', 'piacciono pianeti'])
+[12/04/2026 16:18] Tu: cosa piace a luca
+[12/04/2026 16:18] TigerBot: ('a luca ', ['piacciono Campane', 'piacciono pianeti'])
+[12/04/2026 16:19] Tu: cosa piace a luca
+[12/04/2026 16:19] TigerBot: Non trovo un utente chiamato piace a luca.
+[12/04/2026 16:19] Tu: cosa piace a luca
+[12/04/2026 16:19] TigerBot: Non trovo un utente chiamato piace a luca.
+[12/04/2026 16:19] Tu: cosa piace a luca
+[12/04/2026 16:19] TigerBot: Non trovo un utente chiamato piace.
+[12/04/2026 16:19] Tu: cosa piace a luca
+[12/04/2026 16:19] TigerBot: Non trovo un utente chiamato piace.
+[12/04/2026 16:19] Tu: cosa piace a luca
+[12/04/2026 16:19] TigerBot: Non trovo un utente chiamato piace.
+[12/04/2026 16:19] Tu: cosa piace a luca
+[12/04/2026 16:19] TigerBot: A luca piace piacciono Campane, piacciono pianeti.
+[12/04/2026 16:20] Tu: cosa piace a luca
+[12/04/2026 16:20] TigerBot: A luca piacciono le Campane, piacciono i pianeti.
+[12/04/2026 16:20] Tu: cosa piace a federico
+[12/04/2026 16:20] TigerBot: A federico piace AI, piace Python.
+[12/04/2026 16:20] Tu: seleziona utente Federico
+[12/04/2026 16:20] TigerBot: Utente selezionato: Federico
+[12/04/2026 16:20] Tu: aggiungi piacciono i computer
+[12/04/2026 16:20] TigerBot: Non ho capito.
+[12/04/2026 16:21] Tu: aggiungi piacciono i computer
+[12/04/2026 16:21] TigerBot: Non ho capito.
+[12/04/2026 16:21] Tu: aggiungi piacciono i computer
+[12/04/2026 16:21] TigerBot: Prima seleziona un utente.
+[12/04/2026 16:21] Tu: seleziona utente Federico
+[12/04/2026 16:21] TigerBot: Utente selezionato: Federico
+[12/04/2026 16:21] Tu: aggiungi piacciono i computer
+[12/04/2026 16:21] TigerBot: Aggiunto 'ono i computer' a Federico
+[12/04/2026 16:22] Tu: aggiungi piacciono i computer
+[12/04/2026 16:22] TigerBot: Prima seleziona un utente.
+[12/04/2026 16:22] Tu: seleziona utente Federico
+[12/04/2026 16:22] TigerBot: Utente selezionato: Federico
+[12/04/2026 16:22] Tu: cosa piace a federico
+[12/04/2026 16:22] TigerBot: A federico piace AI, piace Python, ono i computer.
+[12/04/2026 16:22] Tu: aggiungi piacciono i computer
+[12/04/2026 16:22] TigerBot: Aggiunto 'ono i computer' a Federico
+[12/04/2026 16:22] Tu: aggiungi piacciono i computer
+[12/04/2026 16:22] TigerBot: Aggiunto 'ono i computer' a Federico
+[12/04/2026 16:22] Tu: aggiungi piacciono i computer
+[12/04/2026 16:22] TigerBot: Prima seleziona un utente.
+[12/04/2026 16:22] Tu: seleziona utente Federico
+[12/04/2026 16:22] TigerBot: Utente selezionato: Federico
+[12/04/2026 16:22] Tu: aggiungi piacciono i computer
+[12/04/2026 16:22] TigerBot: Aggiunto 'piacciono i computer' a Federico
+[12/04/2026 16:23] Tu: seleziona utente Federic
+[12/04/2026 16:23] TigerBot: Utente selezionato: Federic
+[12/04/2026 16:23] Tu: seleziona utente Luca
+[12/04/2026 16:23] TigerBot: Utente selezionato: Luca
+[12/04/2026 16:23] Tu: aggiungi piacciono le mattonelle
+[12/04/2026 16:23] TigerBot: Aggiunto 'piacciono le mattonelle' a Luca
+[12/04/2026 16:23] Tu: cosa piace a luca
+[12/04/2026 16:23] TigerBot: A luca piacciono le Campane, piacciono i pianeti, piacciono le mattonelle.
+[12/04/2026 16:23] Tu: cosa piace a federico
+[12/04/2026 16:23] TigerBot: A federico piace AI, piace Python, ono i computer, piacciono i computer.
+[12/04/2026 16:23] Tu: cosa piace a federico
+[12/04/2026 16:23] TigerBot: A federico piace AI, piace Python, piacciono i computer.
+[12/04/2026 16:23] Tu: quanti anni ha federico
+[12/04/2026 16:23] TigerBot: Prova a scriverlo in un altro modo.
+[12/04/2026 16:24] Tu: mostra utente
+[12/04/2026 16:24] TigerBot: Ecco i dati di Luca.
+[12/04/2026 16:24] Tu: cls
+[12/04/2026 16:24] TigerBot: Puoi spiegarti meglio?
+[12/04/2026 16:24] Tu: ciao
+[12/04/2026 16:24] TigerBot: Ciao anche a te!
+[12/04/2026 16:24] Tu: ciao
+[12/04/2026 16:24] TigerBot: Ciao anche a te!
+[12/04/2026 16:24] Tu: ciao
+[12/04/2026 16:24] TigerBot: Ciao anche a te!
+[12/04/2026 16:24] Tu: ciao
+[12/04/2026 16:24] TigerBot: Ciao anche a te!
+[12/04/2026 16:24] Tu: come stai?
+[12/04/2026 16:24] TigerBot: Sto bene!
+[12/04/2026 16:24] Tu: e io?
+[12/04/2026 16:24] TigerBot: Non lo so 😄 dimmelo tu!
+[12/04/2026 16:24] Tu: sto bene
+[12/04/2026 16:24] TigerBot: Buon per te!
+[12/04/2026 16:24] Tu: tu'
+[12/04/2026 16:24] TigerBot: Io sono solo un bot 😄
+[12/04/2026 16:25] Tu: ho 15 anni
+[12/04/2026 16:25] TigerBot: Ok, hai 15 anni!
+[12/04/2026 16:25] Tu: mi chiamo gay
+[12/04/2026 16:25] TigerBot: Piacere gay!
+[12/04/2026 16:25] Tu: mi chiamo essere gay
+[12/04/2026 16:25] TigerBot: Piacere essere gay!
+[12/04/2026 16:25] Tu: mi chiamo , che bello essere gay
+[12/04/2026 16:25] TigerBot: Piacere , che bello essere gay!
+[12/04/2026 16:25] Tu: mi chiamo, che bello essere gay
+[12/04/2026 16:25] TigerBot: Non ho capito.
+[12/04/2026 16:25] Tu: mi chiamo , che bello essere gay
+[12/04/2026 16:25] TigerBot: Piacere , che bello essere gay!
+[12/04/2026 16:25] Tu: mi chiamo ez
+[12/04/2026 16:25] TigerBot: Piacere ez!
+[12/04/2026 16:26] Tu: cosa piace a luca
+[12/04/2026 16:26] TigerBot: A luca piacciono le Campane, piacciono i pianeti, piacciono le mattonelle.
+[12/04/2026 16:26] Tu: cosa piace a luca
+[12/04/2026 16:26] TigerBot: A luca piacciono le Campane, piacciono i pianeti.
+[12/04/2026 16:26] Tu: cosa piace a Federico
+[12/04/2026 16:26] TigerBot: A Federico piace AI, piace Python, piacciono i computer.
+[12/04/2026 16:26] Tu: seleziona utente Luca
+[12/04/2026 16:26] TigerBot: Utente selezionato: Luca
+[12/04/2026 16:26] Tu: aggiungi piacciono i dinosauri
+[12/04/2026 16:26] TigerBot: Aggiunto 'piacciono i dinosauri' a Luca
+[12/04/2026 16:26] Tu: cosa piace a luca
+[12/04/2026 16:26] TigerBot: A luca piacciono le Campane, piacciono i pianeti, piacciono i dinosauri.
+[12/04/2026 16:27] Tu: mostra utente
+[12/04/2026 16:27] TigerBot: Ecco i dati di Luca.
+[12/04/2026 16:27] Tu: seleziona utente Federico
+[12/04/2026 16:27] TigerBot: Utente selezionato: Federico
+[12/04/2026 16:27] Tu: mostra utente
+[12/04/2026 16:27] TigerBot: Ecco i dati di Federico.
+[12/04/2026 16:27] Tu: ciao
+[12/04/2026 16:27] TigerBot: Ciao anche a te!
+[12/04/2026 16:28] Tu: GET OUT
+[12/04/2026 16:28] TigerBot: Ciao!
+[13/04/2026 21:04] Tu: rimuovi piace
+[13/04/2026 21:04] TigerBot: Puoi spiegarti meglio?
+[13/04/2026 21:04] Tu: rimuovi piace piacciono le campane
+[13/04/2026 21:04] TigerBot: Prima seleziona un utente.
+[13/04/2026 21:05] Tu: seleziona utente lica
+[13/04/2026 21:05] TigerBot: Utente selezionato: lica
+[13/04/2026 21:05] Tu: seleziona utente Luca
+[13/04/2026 21:05] TigerBot: Utente selezionato: Luca
+[13/04/2026 21:05] Tu: rimuovi piace piacciono le campane
+[13/04/2026 21:05] TigerBot: Rimosso 'iace piacciono le campane' a Luca
+[13/04/2026 21:05] Tu: rimuovi piace campane
+[13/04/2026 21:05] TigerBot: Rimosso 'iace campane' a Luca
+[13/04/2026 21:06] Tu: seleziona utente Luca
+[13/04/2026 21:06] TigerBot: Utente selezionato: Luca
+[13/04/2026 21:06] Tu: aggiungi piace campane
+[13/04/2026 21:06] TigerBot: Aggiunto 'campane' a Luca
+[13/04/2026 21:06] Tu: aggiungi piace dinosauri
+[13/04/2026 21:06] TigerBot: Aggiunto 'dinosauri' a Luca
+[13/04/2026 21:06] Tu: aggiungi piace pianeti
+[13/04/2026 21:06] TigerBot: Aggiunto 'pianeti' a Luca
+[13/04/2026 21:06] Tu: aggiungi piace mattonelle
+[13/04/2026 21:06] TigerBot: Aggiunto 'mattonelle' a Luca
+[13/04/2026 21:06] Tu: rimuovi piace mattonelle
+[13/04/2026 21:06] TigerBot: Rimosso 'attonelle' a Luca
+[13/04/2026 21:07] Tu: seleziona utente Luca
+[13/04/2026 21:07] TigerBot: Utente selezionato: Luca
+[13/04/2026 21:07] Tu: rimuovi piace mattonelle
+[13/04/2026 21:07] TigerBot: Rimosso 'mattonelle' a Luca
+[13/04/2026 21:21] Tu: lista utenti
+[13/04/2026 21:21] Tu: ciao
+[13/04/2026 21:21] TigerBot: Ciao! cosa vuoi fare oggi?
+[13/04/2026 21:21] Tu: lista utenti
+[13/04/2026 21:22] Tu: lista utenti
+[13/04/2026 21:22] Tu: lista utenti
+[13/04/2026 21:33] Tu: lista utenti
+[13/04/2026 21:33] Tu: lista utenti
+[13/04/2026 21:33] Tu: lista utenti
+[13/04/2026 21:35] Tu: lista utenti
+[13/04/2026 21:35] Tu: lista utenti
+[13/04/2026 21:35] Tu: lista utenti
+[13/04/2026 21:36] Tu: lista utenti
+[13/04/2026 21:38] Tu: lista utenti
+[13/04/2026 21:38] Tu: lista utenti
+[13/04/2026 21:38] Tu: lista utenti
+[13/04/2026 21:38] Tu: lista utenti
+[13/04/2026 21:38] Tu: lista utenti
+[13/04/2026 21:39] Tu: lista utenti
+[13/04/2026 21:40] Tu: lista utenti
+[13/04/2026 21:40] Tu: lista utenti
+[13/04/2026 21:40] Tu: lista utenti
+[13/04/2026 21:41] Tu: lista utenti
+[13/04/2026 21:41] Tu: lista utenti
+[13/04/2026 21:41] Tu: lista utenti
+[13/04/2026 21:41] Tu: lista utenti
+[13/04/2026 21:42] Tu: lista utenti
+[13/04/2026 21:42] Tu: lista utenti
+[13/04/2026 21:43] Tu: lista utenti
+[13/04/2026 21:46] Tu: lista utenti
+[13/04/2026 21:46] Tu: lista utenti
+[13/04/2026 21:46] Tu: lista utenti
+[13/04/2026 21:48] Tu: ciao
+[13/04/2026 21:48] TigerBot: Ciao! cosa vuoi fare oggi?
+[13/04/2026 21:49] Tu: come stai?
+[13/04/2026 21:49] TigerBot: Benissimo, tu?
+[13/04/2026 21:49] Tu: bene
+[13/04/2026 21:49] TigerBot: Non ho capito.
+[13/04/2026 21:49] Tu: sto bene
+[13/04/2026 21:49] TigerBot: Mi fa piacere sentirlo!
+[13/04/2026 21:49] Tu: e tu?
+[13/04/2026 21:49] TigerBot: Io sono solo un bot 😄
+[13/04/2026 21:49] Tu: e io?
+[13/04/2026 21:49] TigerBot: Non lo so 😄 dimmelo tu!
+[13/04/2026 21:49] Tu: ok
+[13/04/2026 21:49] TigerBot: Non ho capito.
+[13/04/2026 21:49] Tu: ciao
+[13/04/2026 21:49] TigerBot: Ciao anche a te!
+[13/04/2026 21:49] Tu: va
+[13/04/2026 21:49] TigerBot: Puoi spiegarti meglio?
+[13/04/2026 21:49] Tu: fa
+[13/04/2026 21:49] TigerBot: Puoi spiegarti meglio?
+[13/04/2026 21:49] Tu: mna
+[13/04/2026 21:49] TigerBot: Non sono sicuro di aver capito.
